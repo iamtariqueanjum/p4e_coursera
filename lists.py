@@ -1,0 +1,12 @@
+stuff = list()
+stuff.append('book')
+stuff.append(99)
+print(stuff)
+stuff.append('cookie')
+print(stuff)
+print(99 in stuff)
+print(15 in stuff)
+print('toffee' not in stuff)
+friends = ['Joseph', 'Glenn', 'Sally']
+friends.sort()
+print(friends)
